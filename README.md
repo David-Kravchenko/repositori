@@ -1,1 +1,2 @@
 # repositori
+class Cat
